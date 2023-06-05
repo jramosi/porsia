@@ -1,0 +1,1 @@
+esto es para que cualquier componente hijo acceda a la informacion
